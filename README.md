@@ -1,8 +1,10 @@
 <h2 align="center"> Network Traffic Analysis Lab </h2>
-This project aims to provide a comprehensive understanding of network traffic analysis using the open-source tools Wireshark and Snort. 
+In this demo, I will be analyzing malicious network traffics using Wireshark and Snort to identify the malicious activity in the network. 
+This project aims to provide a comprehensive understanding of network traffic analysis using the open-source tools Wireshark and Snort. </br>
 By analyzing network traffic, we will identify potential security threats, network anomalies, and performance bottlenecks.</br>
 
-</br>This step-by-step guide will help you provide valuable hands-on experience in network traffic analysis and identify malicious traffic.
+</br>This step-by-step guide will help you provide valuable hands-on experience in network traffic analysis and identify malicious traffic. </br>
+The pcap files I used in this lab can be downloaded from https://www.malware-traffic-analysis.net/
 
 ### Overview
 * **Wireshark**: A powerful network protocol analyzer for capturing and inspecting network traffic.
