@@ -1,5 +1,5 @@
 <h2 align="center"> Network Traffic Analysis Lab </h2>
-In this demo, I will be analyzing malicious network traffics using Wireshark and Snort to identify the malicious activity in the network. 
+In this project, I will be analyzing malicious network traffics using Wireshark and Snort to identify the malicious activity in the network. 
 This project aims to provide a comprehensive understanding of network traffic analysis using the open-source tools Wireshark and Snort. </br>
 By analyzing network traffic, we will identify potential security threats, network anomalies, and performance bottlenecks.</br>
 
