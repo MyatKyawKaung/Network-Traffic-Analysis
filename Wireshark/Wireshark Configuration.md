@@ -1,4 +1,4 @@
-In this demo, I configured Wireshark using the PaloAlto-unit42's posts as a reference. The pcap files I used in this lab can be downloaded from https://www.malware-traffic-analysis.net/
+In this demo, I configured Wireshark using the PaloAlto-unit42's blogs as a reference. The pcap files I used in this lab can be downloaded from https://www.malware-traffic-analysis.net/
 
 References: 
 https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/ </br>
