@@ -30,7 +30,7 @@ Next, capture the start of secure connections (TLS handshakes) and HTTP traffic,
 
 `(http.request or tls.handshake.type eq 1)`
 
-We can also see the start of second-stage payload downloading connection well
+We can also see the start of second-stage payload downloading connection as well
 
 ![image06](https://github.com/user-attachments/assets/f55a5c90-59bd-445e-95aa-861383d97fff)
 ![image07](https://github.com/user-attachments/assets/508fb2c7-5198-4779-af56-7af3dfae41b3)
